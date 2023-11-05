@@ -12,7 +12,6 @@ pantalla = Entry(root, width=22, bg="black", fg="white", borderwidth=0, font=("a
 pantalla.grid(row=0, column=0, columnspan=4, padx=1, pady=1)
 
 # Configuración eventos
-
 n1 = ""
 n2 = ""
 op = ""
